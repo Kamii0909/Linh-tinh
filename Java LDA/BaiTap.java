@@ -2,7 +2,6 @@ import java.text.NumberFormat;
 import java.util.Scanner;
 
 public class BaiTap {
-
     private static final int DIEM_CHUAN = 24; 
     private static final String[] BANG_DIEM_UU_TIEN = new String[]{null, "0.5", "1.0", "2.5"};
 
